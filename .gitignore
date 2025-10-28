@@ -91,3 +91,10 @@ milvus_data/
 cache/
 hf_cache/
 insightface/models/
+
+# =========================
+# Volumes (Local storage path)
+# =========================
+volumes/
+D:/10. ky1nam4/project_CV/volumes/
+"D:\10. ky1nam4\project_CV\volumes/"
