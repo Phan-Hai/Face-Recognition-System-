@@ -1,0 +1,93 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Logs & Temp Files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# =========================
+# Model & Checkpoints
+# =========================
+*.onnx
+*.pth
+*.pt
+*.ckpt
+models/
+weights/
+checkpoints/
+
+# =========================
+# Data & Image Files
+# =========================
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.mp4
+*.avi
+data/
+dataset/
+samples/
+outputs/
+results/
+captures/
+
+# =========================
+# Milvus & Database Cache
+# =========================
+milvus_data/
+*.db
+*.sqlite3
+*.sql
+
+# =========================
+# Jupyter & Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb~
+
+# =========================
+# Hugging Face / Cache
+# =========================
+~/.cache/
+~/.huggingface/
+cache/
+hf_cache/
+insightface/models/

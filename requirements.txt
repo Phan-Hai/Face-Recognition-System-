@@ -1,0 +1,10 @@
+numpy>=1.22.0
+opencv-python-headless>=4.8.0
+opencv-contrib-python>=4.8.0
+face-alignment
+dlib>=19.24.0
+insightface==0.7.3
+onnxruntime
+pymilvus==2.3.6
+python-dotenv
+pillow
